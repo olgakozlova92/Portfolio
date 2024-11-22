@@ -6,20 +6,16 @@
 
 ## Навыки и инструменты
 
-- **python**
-- **pandas**
-- **numpy**
-- ****
-- sklearn.model_selection.**cross_val_score**
-- sklearn.metrics.**mean_squared_error**
-- sklearn.metrics.**mean_absolute_error**
-- sklearn.preprocessing.**StandardScaler**
-- sklearn.linear_model.**LinearRegression**
-- sklearn.tree.**DecisionTreeRegressor**
-- sklearn.ensemble.**RandomForestRegressor**
-- **matplotlib**
+- **предобработка данных**
+- **исследовательский анализ данных**
+- **описательная статистика**
+- **проверка статистических гипотез**
+- python
+- pandas
+- numpy
+- matplotlib
 
-## 
+#
 
 ## Общий вывод
 
