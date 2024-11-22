@@ -1,6 +1,6 @@
 # Исследование рынка компьютерных игр
 
-<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/Computer%20Games/P5.ipynb">ipynb</a>
+<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/Computer%20Games/P5.ipynb">ipynb</a> <a id="myhref" href="Computer Games/P5.html">html</a>
 
 ## Описание проекта
 
