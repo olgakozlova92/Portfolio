@@ -1,6 +1,6 @@
 # Анализ пользовательского поведения в мобильном приложении
 
-
+<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/Mobile%20App/P10.ipynb">ipynb</a>
 
 ## Описание проекта
 
