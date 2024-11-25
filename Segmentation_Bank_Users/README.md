@@ -15,9 +15,11 @@
 - **визуализация данных**
 - python
 - pandas
-- numpy
 - seaborn
-- plotly
+- matplotlib
+- scipy
+- math
+- phik
 
 
 #
