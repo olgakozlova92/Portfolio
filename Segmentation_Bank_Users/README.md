@@ -1,6 +1,6 @@
 # Анализ и разработка мер по удержанию пользователей банка
 
-
+<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/Segmentation_Bank_Users/P13_segmentation_bank_users.ipynb">ipynb</a>
 
 ## Описание проекта
 
