@@ -16,10 +16,11 @@
 - python
 - pandas
 - seaborn
+- phik
 - matplotlib
 - scipy
 - math
-- phik
+
 
 
 #
