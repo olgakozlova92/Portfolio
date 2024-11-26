@@ -1,6 +1,6 @@
 # Оценка результатов A/B-теста
 
-<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/AB_testing/P13_ab.ipynb">ipynb</a>
+<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/AB_testing/P13_ab.ipynb">ipynb</a> <a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/AB_testing/P13_ab.html">html</a>
 
 ## Описание проекта
 
