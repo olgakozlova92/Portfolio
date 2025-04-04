@@ -4,7 +4,7 @@
 
 | #    | Наименование проекта                | Описание проекта                                                     | Стек                                                                     |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1   |  <a id="myhref" href="https://github.com/olgakozlova92/Portfolio/tree/main/Segmentation_Bank_Users">Анализ перемещений домашнего питомца</a> | Анализ активности домашнего питомца на основании данных перемещений с GPS-ошейника (трекера) | python, pandas, folium, geopy, plotly, seaborn, numpy, phik, matplotlib, requests|
+| 1   |  <a id="myhref" href="https://github.com/olgakozlova92/Portfolio/tree/main/Petsee_Cat">Анализ перемещений домашнего питомца</a> | Анализ активности домашнего питомца на основании данных перемещений с GPS-ошейника (трекера) | python, pandas, folium, geopy, plotly, seaborn, numpy, phik, matplotlib, requests|
 | 2   |  <a id="myhref" href="https://github.com/olgakozlova92/Portfolio/tree/main/Segmentation_Bank_Users">Анализ и разработка мер по удержанию пользователей банка</a> | Анализ и сегментация пользователей на основе данных о количестве потребляемых услуг | python, pandas, seaborn, phik, matplotlib, scipy, math |
 | 3   |  <a id="myhref" href="https://github.com/olgakozlova92/Portfolio/tree/main/AB_testing">Оценка результатов А/В - теста</a> | Оценка корректности проведения теста и анализ его результатов | python, pandas, seaborn, matplotlib, scipy, math |
 | 4   |
