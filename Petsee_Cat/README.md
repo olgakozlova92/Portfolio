@@ -1,6 +1,9 @@
 # Анализ активности домашнего питомца на основании данных перемещений с GPS-ошейника (трекера)
 
-href="https://github.com/olgakozlova92/Portfolio/blob/main/Computer%20Games/P5.html">html</a>
+<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/Segmentation_Bank_Users/P13_segmentation_bank_users.html">html</a>
+
+<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/Segmentation_Bank_Users/P13_segmentation_bank_users.ipynb">ipynb</a> 
+
 
 ## Описание проекта
 
