@@ -1,6 +1,6 @@
 # Анализ активности домашнего питомца на основании данных перемещений с GPS-ошейника (трекера)
 
-<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/Segmentation_Bank_Users/P13_segmentation_bank_users.html">html</a>
+<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/Petsee_Cat/petsee_iriska-5.html">html</a>
 
 <a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/Petsee_Cat/petsee_iriska.ipynb">ipynb</a> 
 
