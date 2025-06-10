@@ -2,9 +2,6 @@
 
 href="https://github.com/olgakozlova92/Portfolio/blob/main/Computer%20Games/P5.html">html</a>
 
-<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/Computer%20Games/P5.ipynb">ipynb</a> <a id="myhref" 
-
-
 ## Описание проекта
 
 Используя выгрузку данных с перемещениями домашней кошки Ириски, выявить поведенческие закономерности, особенности маршрутов, а также влияние погодных условий на длительность прогулок
