@@ -1,7 +1,7 @@
-# Анализ активности домашнего питомца на основании данных перемещений с GPS-ошейника (трекера)
+# Расчет и анализ основных продуктовых метрик компании электронных товаров
 
-<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/Petsee_Cat/petsee_iriska-2.html">html</a>
-<a id="myhref" href="https://github.com/olgakozlova92/Portfolio/blob/main/Petsee_Cat/petsee_iriska.ipynb">ipynb</a> 
+<a id="myhref" href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/232061605147109/671426932157833/3583290563985003/latest.html ">html</a>
+
 
 
 ## Описание проекта
@@ -11,20 +11,8 @@
 
 ## Навыки и инструменты
 
-- **предобработка данных**
-- **исследовательский анализ данных**
-- **интерактивная визуализация**
-- **описательная статистика**
-- **парсинг архива прогноза погоды**
-- pandas
-- numpy
-- folium
-- geopy
-- plotly
-- matplotlib
-- seaborn
-- requests
-- phik
+- SQL
+- Databrics Community
 
 #
 
